@@ -15,7 +15,7 @@ This GitHub Pages site provides automatic 301 redirects from your old WordPress 
 
 ```bash
 # Navigate to this directory
-cd /Users/mandytang/Desktop/Claude/Wordpress\ transfer/github-redirect-setup
+cd /Users/***/Desktop/Claude/Wordpress\ transfer/github-redirect-setup
 
 # Initialize git repo
 git init
